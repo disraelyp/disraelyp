@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Disraely Peralta 👋
+
+Full-Stack software developer 👨‍💻, who specialized in modern web development and algorithms design. If you wanna take a conversation with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) at telegram and of my linkedin's profile ([@disraelyp](https://www.linkedin.com/in/disraelyp/))
+
+I am currently working 🔭 on a custom REST API service generator application with random data seeds, with ReactJS, NextJS, Express (with GraphQL implementation) and more...✨ 
 
 <!--
 **disraelyp/disraelyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
