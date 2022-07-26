@@ -4,20 +4,6 @@ I'm a Full-Stack Software Engineer 👨‍💻, who specialized in modern web de
 
 I'm currently working 🔭 on a custom REST API service generator application with ReactJS, NextJS, Express (with GraphQL implementations) and more...✨ 
 
-### Development toolkit 👨‍💻
-<center>
-  <table border="0">
-    <tr style="border: none">
-        <td style="border: none">
-          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=disraelyp&theme=react&show_icons=true&count_private=true" />
-        </td>
-        <td>
-          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disraelyp&layout=compact&theme=react&count_private=true" />
-        </td>
-    </tr>   
-  </table>
-</center>
-
 
 <!--
 **disraelyp/disraelyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
