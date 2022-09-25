@@ -1,6 +1,6 @@
 ## Hi, I'm Disraely Peralta 👋
 
-I'm a Full-Stack Software Engineer 👨‍💻, who specialized in modern web development and algorithms design. If you wanna take a conversation with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) at telegram and of my linkedin's profile ([@disraelyp](https://www.linkedin.com/in/disraelyp/))
+I'm a Full-Stack Software Engineer 👨‍💻, who specialized in modern web development and algorithms design. If you wanna take a conversation with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) in telegram or/and of my linkedin's profile at [@disraelyp](https://www.linkedin.com/in/disraelyp/).
 
 
 <!--
