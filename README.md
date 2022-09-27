@@ -5,7 +5,7 @@ I am a Full-Stack Software Engineer 👨‍💻 specialized in modern web develo
 - 🌱 I am currently learning Python and web development with it, while I finish my university studies.
 - 🔭 I am currently working on amazing products to help hundreds of amazing people at @intellisysdcorp.
 
-### ⚡ Main Tech-Stack:
+### ⚡ Tech-Stack:
 
 JavaScript/TypeScript, NodeJS, HTML5, SASS/CSS3, Python, ReactJS, ReactJS Native, NextJS, NestJS, ExpressJS, Apollo Server/Cient, MongoDB, Redux, MUI, Bootstrap, Cypress, Jest, PostgreSQL, MySQL, GCP, AWS, TypeORM, Figma, Adobe Illustrator, Lucidchart and more... ✨
 
