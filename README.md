@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer 👨‍💻 specialized in modern web develo
 
 ### ⚡ Main Tech-Stack:
 
-JavaScript/TypeScript, Python, ReactJS, NextJS, NestJS, ExpressJS, Redux, MUI, PostgreSQL, MySQL, GCP, TypeORM and more... ✨
+JavaScript/TypeScript, NodeJS, HTML5, SASS/CSS3, Python, ReactJS, ReactJS Native, NextJS, NestJS, ExpressJS, Apollo Server/Cient, MongoDB, Redux, MUI, Bootstrap, Cypress, Jest, PostgreSQL, MySQL, GCP, AWS, TypeORM, Figma, Adobe Illustrator, Lucidchart and more... ✨
 
 <!--
 **disraelyp/disraelyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
