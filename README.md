@@ -1,7 +1,14 @@
 ## Hi, I'm Disraely Peralta 👋
 
-I'm a Full-Stack Software Engineer 👨‍💻, who specialized in modern web development and algorithms design. If you wanna take a conversation with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) in telegram or/and of my linkedin's profile at [@disraelyp](https://www.linkedin.com/in/disraelyp/).
+I'm a Full-Stack Software Engineer 👨‍💻, who specialized in modern web development and algorithms design. If you wanna take a conversation with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) in telegram or/and of my linkedin's profile at [@disraelyp](https://www.linkedin.com/in/disraelyp/). In my free time I like to develop algorithms in [leetcode](https://leetcode.com/), and study new technologies.
 
+- 🌱 I am currently learning Python and web development with it, while I finish my university studies.
+- 🔭 I’m currently working on an amazing product to help hundreds of amazing people at @intellisysdcorp
+
+
+#### ⚡ Main Tech-Stack:
+
+JavaScript/TypeScript, Python, ReactJS, NextJS, NestJS, ExpressJS, Redux, MUI, PostgreSQL, MySQL, GCP, TypeORM and more... ✨
 
 <!--
 **disraelyp/disraelyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
