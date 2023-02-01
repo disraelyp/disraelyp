@@ -2,7 +2,7 @@
 
 I am a Full-Stack Software Engineer 👨‍💻 specialized in modern web development and algorithm design. If you want to chat with me or get more information about me 📫, you can contact me at [@disraelyp](https://t.me/disraelyp) through Telegram or through my LinkedIn profile at [@disraelyp](https://www.linkedin.com/in/disraelyp/). In my spare time, I like to develop python algorithms at [leetcode](https://leetcode.com/) and study new technologies.
 
-- 🌱 I am currently learning Python and web development with it, while I finish my university studies.
+- 🌱 I am currently learning Java and web development with it, while I finish my university studies.
 - 🔭 I am currently working on amazing products to help hundreds of amazing people at @intellisysdcorp.
 
 ### ⚡ Main Tech-Stack:
